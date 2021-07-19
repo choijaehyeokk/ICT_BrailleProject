@@ -48,6 +48,7 @@ github : [https://github.com/lsw725](https://github.com/lsw725)
 
 ## ➿ 회로도
 
+<img width="475" alt="KakaoTalk_20201112_161239753" src="https://user-images.githubusercontent.com/57403237/126178703-d7398807-19db-4565-9462-926d8edc0143.png">
 
 
 ---
