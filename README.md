@@ -48,7 +48,7 @@ github : [https://github.com/lsw725](https://github.com/lsw725)
 
 ## ➿ 회로도
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45ce6ab9-d09b-4538-975c-311e3cad440c/KakaoTalk_20201112_161239753.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45ce6ab9-d09b-4538-975c-311e3cad440c/KakaoTalk_20201112_161239753.png)
+
 
 ---
 
