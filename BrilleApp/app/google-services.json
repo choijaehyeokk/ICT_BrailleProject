@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266921247585",
+    "firebase_url": "https://lckbraille-e205d.firebaseio.com",
+    "project_id": "lckbraille-e205d",
+    "storage_bucket": "lckbraille-e205d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266921247585:android:ecea88153402a97958fb20",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266921247585-rlbvl1vkskan35dusq2kkvt9emp0hjcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "f0cc1c0c6ae123cf1d6fa336172ad6ca0d925c92"
+          }
+        },
+        {
+          "client_id": "266921247585-unfkic0m0o8efgmhkpf2edeiiohu2jqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABPsXaTFtgjLRqHO_yU2kO7PIP2Rbq77I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266921247585-unfkic0m0o8efgmhkpf2edeiiohu2jqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
